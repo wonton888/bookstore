@@ -1,26 +1,21 @@
 
-CONTENTS OF THIS FILE
+Passwords for Databases and Drupal Site Maintenance
 ---------------------
 
- * About Drupal
- * Configuration and features
- * Installation profiles
- * Appearance
- * Developing for Drupal
+Database:
 
-ABOUT DRUPAL
+username: adam
+password: root
+
+Drupal Site Maintenance:
+
+username: adam
+password: root
+
+
+ABOUT bookstore
 ------------
 
-Drupal is an open source content management platform supporting a variety of
-websites ranging from personal weblogs to large community-driven websites. For
-more information, see the Drupal website at http://drupal.org/, and join the
-Drupal community at http://drupal.org/community.
-
-Legal information about Drupal:
- * Know your rights when using Drupal:
-   See LICENSE.txt in the same directory as this document.
- * Learn about the Drupal trademark and logo policy:
-   http://drupal.com/trademark
 
 CONFIGURATION AND FEATURES
 --------------------------
